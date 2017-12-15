@@ -1,0 +1,7 @@
+Texture assets were available through open source from https://www.spriters-resource.com/
+Map was created by me by using the application Tiled to draw the graphics, Originial mario map was used for reference on level building
+All Mario related sounds were downloaded from youtube, converted to either ogg or wav files. https://www.youtube.com/watch?v=waGOUVI48OM
+Lance dying sound is from Metal Gear Solid where Snake dies. https://www.youtube.com/watch?v=xEvJmI7uJ-g
+Main overworld musics is Contra Jungle theme. https://www.youtube.com/watch?v=Tifv7qh_hmY
+The eerie sound that comes upon death is the infamous Dark Souls death screen. https://www.youtube.com/watch?v=Kr9rIx7MVvg
+The sound that occurs from winning the game is the Contra intro. https://www.youtube.com/watch?v=qKwUHKivltw

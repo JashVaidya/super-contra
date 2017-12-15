@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/Users/jash/Desktop/Fall 2017 - RU/ITEC 220/Projects/Vaidya-Project 5/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/jash/Desktop/Fall 2017 - RU/ITEC 220/Projects/Vaidya-Project 5/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/Users/jash/Desktop/Fall 2017 - RU/ITEC 220/Projects/Vaidya-Project 5/android/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 475
+                    }
+                }
+            }
+        ]
+    }
+]
