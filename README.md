@@ -3,4 +3,4 @@ super-contra is a mixture of NES games Contra and Super Mario. Lance is thrown i
 
 The game is created with the libGDX framework
 
-![screenshot](https://i.imgur.com/fwsivv6.png)
+![screenshot](https://i.imgur.com/90fTvJa.png)
